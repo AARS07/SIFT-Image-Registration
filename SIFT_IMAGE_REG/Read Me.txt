@@ -1,7 +1,7 @@
 Author: Aaron Abela
 Date: 10/30/2020
 
-This folder contains the implementation of image registration usign the SIFT algorithm in Python Version 3.
+This folder contains the implementation of image registration using the SIFT algorithm in Python Version 3.
 
 To use the SIFT opencv algorithm one needs to install opencv-contrib-python package. 
 
